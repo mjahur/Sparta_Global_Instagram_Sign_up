@@ -1,0 +1,199 @@
+body {
+  background-color: #fafafa;
+  width: 760px;
+  height: 768.333px;
+  padding-bottom: 44px;
+  padding-top: 44px
+  margin: auto;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+}
+/* -----------------Left------------- */
+.ig_on_phone {
+  width: 454px;
+  height: 618px;
+  margin-top:35px;
+  margin-left: -35px;
+  margin-right: -15px;
+  display: inline;
+  float: left;
+}
+/* -----------------Right------------- */
+.right {
+  width: 350px;
+  height: 754.2px;
+  margin-top: 12
+  display:inline-block;
+  float: right;
+}
+.form_box {
+  width: 348px;
+  height: 541.8px;
+  background-color: white;
+  padding: 10px 0px;
+  margin-bottom: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e6e6e6;
+}
+
+/* -----------------Inside form box------------- */
+.Instagram_logo_img {
+  width: 195px;
+  height: 70px;
+  margin: 15px 86.5px 0px 86.5px;
+}
+
+.Header {
+  text-align: center;
+  color: #999;
+  width: 268px;
+  height: 40px;
+  margin: 0px 40px 10px 40px
+}
+
+.fb_login{
+  color: white;
+  background-color: #3897f0;
+  text-align: center;
+  width: 266px;
+  height: 20px;
+  margin: 15px  auto;
+}
+
+.the_OR {
+  width: 268px;
+  height: 14.4px;
+  color: #999;
+  text-align: center;
+  margin: 15px auto;
+}
+
+.Mobile_or_email {
+  width: 266px;
+  height: 36px;
+  color: #999;
+  background-color: #fafafa;
+  text-align: center;
+  line-height: 36px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5x;
+  margin-bottom: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e6e6e6;
+}
+
+.Full_name {
+  width: 266px;
+  height: 36px;
+  color: #999;
+  background-color: #fafafa;
+  text-align: center;
+  line-height: 36px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e6e6e6;
+}
+.Username {
+  width: 266px;
+  height: 36px;
+  color: #999;
+  background-color: #fafafa;
+  text-align: center;
+  line-height: 36px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e6e6e6;
+}
+.Password {
+  width: 266px;
+  height: 36px;
+  color: #999;
+  background-color: #fafafa;
+  text-align: center;
+  line-height: 36px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e6e6e6;
+}
+
+.Next {
+    color: white;
+    background-color: #3897f0;
+    text-align: center;
+    width: 266px;
+    height: 20px;
+    margin: 15px  auto;
+  }
+
+.Terms {
+  color: #999;
+  text-align: center;
+  width: 228px;
+  height: 105.6px;
+  margin: 10px 60px;
+}
+/* -------------Right-------------*/
+.Log_in {
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-color: #e6e6e6;
+  width: 348px;
+  height: 47.6px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  margin-bottom: 10px;
+}
+
+.Get_app {
+  text-align: center;
+  width: 350px;
+  height: 100.8px;
+}
+/* Inside get the app */
+
+.get_the_app{
+  width: 301px;
+  height: 17.6px;
+  margin: 10px 20px;
+}
+.icons {
+  width: 350px;
+  height: 43.2px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.AppStore {
+  width: 136px;
+  height: 40px;
+}
+
+.GooglePlay {
+  width: 134.275px;
+  height: 40px;
+}
+
+.Microsoft {
+  width: 110.762px;
+  height: 40px;
+}
